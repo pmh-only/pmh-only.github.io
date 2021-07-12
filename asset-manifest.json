@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3390ac5.chunk.css",
+    "main.js": "/static/js/main.f4f28655.chunk.js",
+    "main.js.map": "/static/js/main.f4f28655.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0605945.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
+    "static/css/2.bd805071.chunk.css": "/static/css/2.bd805071.chunk.css",
+    "static/js/2.c445322b.chunk.js": "/static/js/2.c445322b.chunk.js",
+    "static/js/2.c445322b.chunk.js.map": "/static/js/2.c445322b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.bd805071.chunk.css.map": "/static/css/2.bd805071.chunk.css.map",
+    "static/css/main.a3390ac5.chunk.css.map": "/static/css/main.a3390ac5.chunk.css.map",
+    "static/js/2.c445322b.chunk.js.LICENSE.txt": "/static/js/2.c445322b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/noto-serif-kr-all-400-normal.63dda6ad.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0605945.js",
+    "static/css/2.bd805071.chunk.css",
+    "static/js/2.c445322b.chunk.js",
+    "static/css/main.a3390ac5.chunk.css",
+    "static/js/main.f4f28655.chunk.js"
+  ]
+}
